@@ -27,3 +27,5 @@ and place other files in this folder
 more improvments will be still updating
 
 _гречка_ __2022__
+
+![image](https://user-images.githubusercontent.com/64285271/184018524-55d9141f-7bac-4331-bdf2-fd846031ff1d.png)
