@@ -13,6 +13,17 @@ because hes have it right in away
 
 and you can also put this on the master lul 
 
+---
+
+# Installation
+
+unpack the archive whatever you want, then
+place the preset (`Proxima Disperser.fst`) in `C:\Users\[UR NAME]\Documents\Image-Line\FL Studio\Presets\Plugin presets\Effects\Patcher`
+then create a separate folder in `C:\Users\[UR NAME]\Documents\Image-Line\FL Studio\Presets\Plugin presets\Effects\Fruity HTML NoteBook`
+and place other files in this folder 
+
+---
+
 more improvments will be still updating
 
 _гречка_ __2022__
