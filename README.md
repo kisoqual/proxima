@@ -1,6 +1,8 @@
 # Proxima Disperser
 
 
+![](https://kisoqual.github.io/proxima/image.png)
+
 this preset plugin makes your kicks
 and other transients more punchy 
 
