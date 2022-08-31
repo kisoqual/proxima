@@ -1,6 +1,5 @@
 # Proxima Disperser
 
-
 ![](https://github.com/kisoqual/proxima/blob/main/image.png?raw=true)
 
 this preset plugin makes your kicks
